@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es-es">
+    <title>Mi canal de RSS</title>
+    <link rel="alternate" type="application/atom+xml" href="https://www.error500.net"/>
+    <updated>2023-02-05T18:43:45Z</updated>
+    <id>https://www.error500.net</id>
+    <author>
+      <name>Didac Montero Urban</name>
+    </author>
+    <entry>
+      <title>Otra oportunidad para la voz. Apple y Siri están mal colocadas, Luzia lo hace mejor</title>
+      <link rel="alternate" type="application/atom+xml" href="https://www.error500.net/p/otra-oportunidad-para-la-voz-apple"/>
+      <updated>2023-04-28T20:36:00Z</updated>
+      <id>https://www.xataka.com/videojuegos/counter-strike-sigue-siendo-juego-iconico-dos-decadas-despues-ahora-puedes-jugarlo-tu-navegador</id>
+      <summary>La última generación de servicios que intentaron que el interfaz entre usuario y tecnología fuese la voz acabó decepcionando. Es la de Alexa, Cortana, Siri y Google Assistant. Con los modelos grandes de lenguaje y ChatGPT se ha abierto una puerta a otra generación pero precisan de empresas capaces de atreverse porque, como hemos hablado mil veces, inventan y alucinan.</summary>
+    </entry>
+    <entry>
+        <title>La inteligencia artificial ya está cambiando nuestra experiencia de internet</title>
+        <link rel="alternate" type="application/atom+xml" href="https://www.error500.net/p/la-inteligencia-artificial-ya-esta"/>
+        <updated>2023-04-25T15:20:41Z</updated>
+        <id>https://www.xataka.com/nuevo/casa-dragon-juego-tronos-hbo-serie-temporada-2-informacion</id>
+        <summary>En mi caso sucedió con el vídeo en el que aparecía el Dalai Lama pidiendo a un niño que le chupara la lengua. A Matías le pasó con la foto que reunía en un selfie a Kun Agüero, Xi Jinping y David Cameron. Es el momento, “no me lo puedo creer, esto seguro que lo han hecho con inteligencia artificial”</summary>
+      </entry>
+      <entry>
+        <title>PC Actual no debió crear una web, Xataka no debería usar imágenes generadas con inteligencia artificial</title>
+        <link rel="alternate" type="application/atom+xml" href="https://www.error500.net/p/pc-actual-no-debio-crear-una-web"/>
+        <updated>2023-04-21T10:30:53Z</updated>
+        <id>https://www.xataka.com/cine-y-tv/netflix-quiere-que-te-quedes-ponga-fin-a-cuentas-compartidas-estos-cambios-sus-argumentos</id>
+        <summary>Se anunció el cierre de las dos últimas revistas en papel dedicadas al PC y al Mac en Estados Unidos. Para los que crecimos leyendo revistas de informática es una noticia que nos lleva a la melancolía. Lo ha comentado Javier Pastor, que vivió la transición “del off al on” desde las dos orillas.</summary>
+      </entry>
+
+</feed>
